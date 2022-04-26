@@ -6,7 +6,8 @@ Certificados de cursos realizados na instituição educacional Alura.
 <details>
  <summary>Cursos:</summary>
 
-   - Git e Github: Controle e Compartilhe seu Código   
+   - Git e Github: Controle e Compartilhe seu Código  
+    
    - JavaScript para Web: Crie Páginas Dinâmicas
    - HTML5 e CSS3 parte 4: Avançando no CSS
    - HTML5 e CSS3 parte 3: Trabalhando com Formulários e Tabelas
