@@ -2,6 +2,14 @@
 Certificados de cursos realizados na instituição educacional Alura.
 <br><br>
 
+## :trophy: Formação: FrontEnd
+<details>
+ <summary>Cursos:</summary>
+
+   - Acessibilidade Web parte 1: Tornando seu FrontEnd Inclusivo  
+   
+</details>
+
 ## :trophy: Formação: Iniciante em Programação
 <details>
  <summary>Cursos:</summary>
