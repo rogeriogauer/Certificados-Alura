@@ -7,6 +7,8 @@ Certificados de cursos realizados na instituição educacional Alura.
  <summary>Cursos:</summary>
 
    - Acessibilidade Web parte 1: Tornando seu FrontEnd Inclusivo  
+
+   - JavaScript: Primeiros Passos com a Linguagem
    
 </details>
 
